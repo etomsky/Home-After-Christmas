@@ -1,6 +1,6 @@
 MISCELANEOUS
-Present
-Cookie
+-Present
+-Cookie
 -Stairs
 Window
 Door
@@ -11,6 +11,7 @@ ANIMATIONS
 Santa running
 Santa jump
 Santa riding RC car
+Child idle
 
 LIVING ROOM
 -Couch
@@ -30,4 +31,4 @@ Stove
 GARAGE
 Car
 Garbage bin
-Cardboard Box
+Cardboard box
